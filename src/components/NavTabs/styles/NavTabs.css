@@ -1,0 +1,19 @@
+:local .nav {
+  display: flex;
+  list-style: none;
+  padding: 0; }
+  :local .nav Button {
+    padding: 0; }
+  :local .nav li {
+    padding: 0 .1em; }
+    :local .nav li span {
+      display: block;
+      height: 36px;
+      line-height: 36px; }
+    :local .nav li a {
+      text-decoration: none;
+      display: block;
+      color: #fff;
+      padding: 0 1em;
+      font-size: 11px;
+      border-radius: 2px; }

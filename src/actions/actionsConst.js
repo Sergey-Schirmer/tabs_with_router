@@ -1,0 +1,1 @@
+export const  TABS_ACTION = 'TABS_ACTION'
